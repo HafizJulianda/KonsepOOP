@@ -1,4 +1,4 @@
-package id.ac.polbeng.depandi.test_kelas
+package id.ac.polbeng.hafiz.test_kelas
 
 class PersonC (var firstName: String, var lastName: String, var age: Int) {}
 fun main(){

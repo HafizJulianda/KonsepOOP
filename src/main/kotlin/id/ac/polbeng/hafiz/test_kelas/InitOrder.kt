@@ -1,4 +1,4 @@
-package id.ac.polbeng.depandi.test_kelas
+package id.ac.polbeng.hafiz.test_kelas
 class InitOrder(name: String) {
     val firstProperty = "First property: $name".also(::println)
     init {

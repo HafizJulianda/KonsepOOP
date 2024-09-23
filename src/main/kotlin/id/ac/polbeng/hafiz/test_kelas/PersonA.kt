@@ -1,4 +1,4 @@
-package id.ac.polbeng.depandi.test_kelas
+package id.ac.polbeng.hafiz.test_kelas
 
 class PersonA (_firstName: String, _lastName: String, _age: Int) {
     var firstName:String
