@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="137ef31f-ad71-4d60-8f00-8bcbdd0ac1ae" name="Changes" comment="Add All">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/hafiz/test_kelas/DataClassD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/hafiz/test_kelas/DataClassE.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,37 +46,37 @@
       <recent name="id.ac.polbeng.depandi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.NestedInnerClassAKt">
-    <configuration name="InterfaceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.InterfaceCKt" />
+  <component name="RunManager" selected="Kotlin.DataClassFKt">
+    <configuration name="DataClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.DataClassBKt" />
       <module name="KonsepOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.InterfaceDKt" />
+    <configuration name="DataClassCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.DataClassCKt" />
       <module name="KonsepOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.NestedInnerClassAKt" />
+    <configuration name="DataClassDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.DataClassDKt" />
       <module name="KonsepOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.NestedInnerClassBKt" />
+    <configuration name="DataClassEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.DataClassEKt" />
       <module name="KonsepOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.NestedInnerClassKt" />
+    <configuration name="DataClassFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.hafiz.test_kelas.DataClassFKt" />
       <module name="KonsepOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.NestedInnerClassAKt" />
-        <item itemvalue="Kotlin.NestedInnerClassBKt" />
-        <item itemvalue="Kotlin.NestedInnerClassKt" />
-        <item itemvalue="Kotlin.InterfaceDKt" />
-        <item itemvalue="Kotlin.InterfaceCKt" />
+        <item itemvalue="Kotlin.DataClassFKt" />
+        <item itemvalue="Kotlin.DataClassEKt" />
+        <item itemvalue="Kotlin.DataClassDKt" />
+        <item itemvalue="Kotlin.DataClassCKt" />
+        <item itemvalue="Kotlin.DataClassBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727640746188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add All">
+      <created>1727652896141</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727652896141</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
